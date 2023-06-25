@@ -27,6 +27,7 @@
           users.users.root.openssh.authorizedKeys.keys = [
             # change this to your ssh key
             "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKREKbihvckSohdmjQFZELhNNhSHdaoO9zPUUUCll9Y0 jill@Ubuntu"
+            "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKI1shQgwbLbzokhGbvMfR8cQYwTJsGgFPCKZDp33K/m chongololo.lodge@gmail.com"
           ];
         })
       ];
